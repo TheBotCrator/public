@@ -1,0 +1,42 @@
+[COMMAND LIST VERSION: 3.2]
+
+=USABLE BY ANYONE:=
+
+!permissions (your perms
+
+!embed [color hex] [message]. (Write a message
+ 
+!8ball [question]. (Yes,No,Maybe,Fuck You
+
+!userinfo [@user]. (info on a user
+
+
+
+!ping (pong
+
+!reverse [text] (send text backwards
+
+
+
+!invite (invite bot
+
+!iq [@user] (tells a users iq
+
+
+
+!infect [@user](zomboy
+
+=USABLE BY ANYONE WITH ADMIN PERM:=
+!kick [@user]
+
+!ban [@user]
+
+!unban [@user]
+
+=BOT's OWNER ONLY:=
+!dmall [message]
+
+!setstatus [game]
+
+
+!prune
